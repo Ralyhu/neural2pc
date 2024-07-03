@@ -1,0 +1,6 @@
+int_p1 : 73.0
+int_p2 : 52.0
+int_n1 : 0.0
+int_n2 : 0.0
+inter_p : 3.0
+inter_n : 46.0
